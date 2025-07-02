@@ -1,0 +1,1 @@
+{"exito":true,"mensaje":"Historial m\u00e9dico registrado correctamente.","id":12,"jugador_nombre":"LUIS","jugador_apellido":"GAYOSO","fecha":"2025-06-02","tipo":"ligameento cruzado","diagnostico":"ligamento cruzado ","tratamiento":"reposo y fisioterapia","fecha_recuperacion":"2026-01-06","medico_tratante":"Gladys Rivas","observaciones":""}

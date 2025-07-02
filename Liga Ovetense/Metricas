@@ -1,0 +1,11 @@
+Goles (Goles * 2): Los goles suelen ser uno de los indicadores más importantes de la habilidad ofensiva de un jugador, por lo que le asigné el doble de peso.
+
+Asistencias (Asistencias * 1.5): Las asistencias son también una medida importante del rendimiento de un jugador, especialmente de aquellos en roles ofensivos o de creación de jugadas. Por ello, les di un peso más bajo que los goles, pero aún significativo.
+
+Minutos jugados (Minutos jugados / 90): Los minutos jugados indican cuánto tiempo ha estado un jugador en el campo. He dividido entre 90 para obtener una "puntuación de participación" relativa a los 90 minutos de un partido completo, con el objetivo de normalizar la cantidad de minutos jugados.
+
+Pases completados (Pases completados * 0.5): Los pases completados también son una métrica importante, especialmente en jugadores que tienen un rol de medio campo. Les asigné un peso más bajo que los goles y las asistencias.
+
+Tarjetas amarillas (Tarjetas amarillas * -0.3): Las tarjetas amarillas se penalizan ligeramente, ya que indican comportamiento antideportivo o acumulación de faltas, lo cual es una desventaja para el jugador.
+
+Tarjetas rojas (Tarjetas rojas * -0.5): Las tarjetas rojas son más graves que las amarillas, por lo que la penalización es más fuerte.
