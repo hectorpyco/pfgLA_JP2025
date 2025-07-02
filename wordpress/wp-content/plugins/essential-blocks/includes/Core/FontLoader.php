@@ -45,7 +45,7 @@ class FontLoader
     // public function get_google_font_list()
     // {
     //     // Google Fonts API URL
-    //     $api_url = 'https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyA98gjHVZcX_FQzgqhn3VRSlzi0hJd_PNc';
+    //     $api_url = 'https://www.googleapis.com/webfonts/v1/webfonts?key= _______________';
 
     //     // Fetch data from Google Fonts API
     //     $response = wp_remote_get( $api_url );
